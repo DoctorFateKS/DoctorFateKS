@@ -44,3 +44,9 @@ Fellow adventurers, I welcome you to join me on this epic journey. Let's collabo
 May our paths cross in this vast digital landscape. Together, we shall code spells, conquer challenges, and emerge as legendary developers.
 
 # Farewell, brave traveler, until we meet again!
+
+![Profile Views](https://komarev.com/ghpvc/?username=DoctorFateKS&color=e0a9bb&label=Profile+Scroll+Examinations)
+![GitHub followers](https://img.shields.io/github/followers/DoctorFateKS?label=Fellowship&style=social&color=e0a9bb)
+![GitHub Stars](https://img.shields.io/github/stars/DoctorFateKS?label=Chosen)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorFateKS&show_icons=true&theme=radical)
