@@ -37,7 +37,7 @@ As I continue my journey, I am currently delving into:
 ## Join the Fellowship
 Fellow adventurers, I welcome you to join me on this epic journey. Let's collaborate, learn, and grow together.
 
-**Twitter:** @DoctorFateKS
+**Twitter:** (https://x.com/DoctorFateKS)
 **LinkedIn:** DoctorFateKS
 **Personal Blog:** DoctorFateKS's Chronicles
 
