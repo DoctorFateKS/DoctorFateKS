@@ -51,4 +51,4 @@ May our paths cross in this vast digital landscape. Together, we shall code spel
 ![GitHub followers](https://img.shields.io/github/followers/DoctorFateKS?label=Fellowship&style=social&color=e0a9bb)
 ![GitHub Stars](https://img.shields.io/github/stars/DoctorFateKS?label=Chosen)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorFateKS&show_icons=true&theme=radical)
+[![CodeWars](https://www.codewars.com/users/DoctorFateKS/badges/large)](https://www.codewars.com/users/DoctorFateKS)
